@@ -262,7 +262,7 @@ h1 {
     .image-collage {
         grid-template-columns: 1fr;
         height: 1x;
-        width:40%;
+        width:80%;
         display: grid;
         grid-template-columns: auto;
     }
